@@ -1,7 +1,17 @@
 
-## ESP-Drone
+## Fragment
 
-* [中文](./README_cn.md)
+**_This is a fork of ESP-Drone, with the intent of adding ESP-Now (better suited for real-time applications), adding additional sensor support, and supporting the ESP32-C3 module (since it's the smallest ESP32)_**
+
+This will be compatible with the Fragment mini drone hardware that I'm designing
+
+Broadly, TODO:
+
+- [ ] Add ESP32-C3 support
+- [ ] Add LSM6DS0 IMU support
+- [ ] Add ESP-Now support
+
+---
 
 ### Introduction
 
